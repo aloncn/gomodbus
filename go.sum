@@ -1,0 +1,4 @@
+github.com/goburrow/serial v0.1.0 h1:v2T1SQa/dlUqQiYIT8+Cu7YolfqAi3K96UmhwYyuSrA=
+github.com/goburrow/serial v0.1.0/go.mod h1:sAiqG0nRVswsm1C97xsttiYCzSLBmUZ/VSlVLZJ8haA=
+github.com/things-labs/timing v0.0.0-20230114084839-0b7ce6218963 h1:bZWYJTeoB6iNUJI5lcwbYG/QTCmjv1J/PalWq4ACb1M=
+github.com/things-labs/timing v0.0.0-20230114084839-0b7ce6218963/go.mod h1:pKdvjR2XaGYNWf/AyuT7rfQWJKvafmLKRgzGJoyf3m4=
