@@ -8,7 +8,7 @@ import (
 	"time"
 
 	modbus "github.com/aloncn/gomodbus"
-	"github.com/things-labs/timing"
+	"github.com/aloncn/timing"
 )
 
 // Handler 处理函数
